@@ -1,5 +1,0 @@
-streamlit>=1.28.0
-matplotlib>=3.5.0
-plotly>=5.0.0
-sympy>=1.10.0
-numpy>=1.21.0
