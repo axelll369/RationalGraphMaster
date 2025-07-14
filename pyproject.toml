@@ -1,0 +1,15 @@
+[project]
+name = "rational-rampage"
+version = "0.1.0"
+description = "Educational game for learning rational function graphing"
+requires-python = ">=3.8"
+dependencies = [
+    "matplotlib",
+    "numpy", 
+    "plotly",
+    "streamlit",
+    "sympy",
+]
+
+[tool.uv]
+package = false
